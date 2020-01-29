@@ -3,7 +3,7 @@ entries:
   awx-proxy-chart:
   - apiVersion: v2
     appVersion: latest
-    created: "2020-01-29T01:39:52.406694194Z"
+    created: "2020-01-29T01:42:42.566169353Z"
     description: A Helm chart for Kubernetes
     digest: 06809b29ed783d90032f713b65d741da2fabcbf645e29dd6f68a81580dd7d0fc
     name: awx-proxy-chart
@@ -11,4 +11,4 @@ entries:
     urls:
     - awx-proxy-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-29T01:39:52.406129135Z"
+generated: "2020-01-29T01:42:42.565579469Z"
