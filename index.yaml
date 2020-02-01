@@ -3,9 +3,9 @@ entries:
   awx-proxy-chart:
   - apiVersion: v2
     appVersion: latest
-    created: "2020-02-01T06:29:43.41313033Z"
+    created: "2020-02-01T06:36:30.980964705Z"
     description: A Helm chart for Kubernetes
-    digest: ad9c8731b5b59baa1af41ec87891fae90f79b822567f84a23c4abcb6e67028e5
+    digest: 03c2fac2a1bd92fb8698787e3845e0d4d3ca3c884810742c2116342f84e38923
     name: awx-proxy-chart
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: latest
-    created: "2020-02-01T06:29:43.41267769Z"
+    created: "2020-02-01T06:36:30.980478287Z"
     description: A Helm chart for Kubernetes
     digest: 8ac81442b6b40e476185ec212a032b635277f3fc51a8e37629e8b8ff8b05e3ae
     name: awx-proxy-chart
@@ -21,4 +21,4 @@ entries:
     urls:
     - awx-proxy-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-01T06:29:43.412065492Z"
+generated: "2020-02-01T06:36:30.979912704Z"
