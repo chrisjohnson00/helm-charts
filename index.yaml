@@ -3,7 +3,7 @@ entries:
   awx-proxy-chart:
   - apiVersion: v2
     appVersion: latest
-    created: "2020-02-10T00:19:14.573425376Z"
+    created: "2020-02-10T01:15:55.116504276Z"
     description: A Helm chart for Kubernetes
     digest: b659169d73e14e74b4c7fbff58aab503e466bc788bcf5a054bf962bb322f8da0
     name: awx-proxy-chart
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: latest
-    created: "2020-02-10T00:19:14.57292883Z"
+    created: "2020-02-10T01:15:55.11601444Z"
     description: A Helm chart for Kubernetes
     digest: 8ac81442b6b40e476185ec212a032b635277f3fc51a8e37629e8b8ff8b05e3ae
     name: awx-proxy-chart
@@ -24,9 +24,9 @@ entries:
   cadvisor:
   - apiVersion: v1
     appVersion: 0.35.0
-    created: "2020-02-10T00:19:14.574519926Z"
+    created: "2020-02-10T01:15:55.117852936Z"
     description: A chart for a Cadvisor deployment
-    digest: bd41d6a92805d219da493c4820b3093effd14a9d0d2c09f73d66448eea3b4976
+    digest: 9c0c8c5ba16b1704e09e6d63792c723ab44815fcb8e895ae945df16e7f1d7271
     home: https://github.com/google/cadvisor
     keywords:
     - prometheus
@@ -42,4 +42,4 @@ entries:
     urls:
     - cadvisor-1.0.0.tgz
     version: 1.0.0
-generated: "2020-02-10T00:19:14.57236665Z"
+generated: "2020-02-10T01:15:55.115377683Z"
