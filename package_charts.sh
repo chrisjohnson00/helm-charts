@@ -3,7 +3,7 @@ set -x
 
 
 ## declare an array variable
-declare -a charts=("awx-proxy-chart" "cadvisor-chart")
+declare -a charts=("awx-proxy-chart" "cadvisor-chart" "flask-chart")
 
 ## now loop through the above array
 for i in "${charts[@]}"
