@@ -3,7 +3,7 @@ entries:
   awx-proxy-chart:
   - apiVersion: v2
     appVersion: latest
-    created: "2020-02-10T02:59:51.01413328Z"
+    created: "2020-02-11T02:57:56.82094773Z"
     description: A Helm chart for Kubernetes
     digest: 4c353dba45e630309879ffadf850d85293c976672699c1fd87e044f4f620a76c
     name: awx-proxy-chart
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: latest
-    created: "2020-02-10T02:59:51.013623659Z"
+    created: "2020-02-11T02:57:56.820477815Z"
     description: A Helm chart for Kubernetes
     digest: 8ac81442b6b40e476185ec212a032b635277f3fc51a8e37629e8b8ff8b05e3ae
     name: awx-proxy-chart
@@ -24,9 +24,9 @@ entries:
   cadvisor:
   - apiVersion: v1
     appVersion: 0.35.0
-    created: "2020-02-10T02:59:51.015305723Z"
+    created: "2020-02-11T02:57:56.82211288Z"
     description: A chart for a Cadvisor deployment
-    digest: 8f2bb46ddcf2e637fbe22948c3380e057fde9e8cfc389fd6aa9fe20ac5adf53b
+    digest: 6834b846bf2654d31237460da149cfb47250a5a5b34cde0c57fb66cf45d7c054
     home: https://github.com/google/cadvisor
     keywords:
     - prometheus
@@ -45,12 +45,12 @@ entries:
   flask-chart:
   - apiVersion: v2
     appVersion: latest
-    created: "2020-02-10T02:59:51.015795415Z"
+    created: "2020-02-11T02:57:56.822574979Z"
     description: A Helm chart for simple Flask apps running onKubernetes
-    digest: c11e3f7f45c64dc94474d199e7b6f644b81df62689fb02966d5efd1c8f61d06d
+    digest: f66469575fb5efd32eee68b3010d2ec7e28e82de25de682ab38452b1f2cca031
     name: flask-chart
     type: application
     urls:
     - flask-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-10T02:59:51.012964212Z"
+generated: "2020-02-11T02:57:56.819928332Z"
