@@ -11,8 +11,8 @@ do
   echo "Start of $i"
   git clone https://$GITHUB_TOKEN@github.com/chrisjohnson00/$i.git
   cd $i
-  docker run --rm -v ${PWD}:/chart -w /chart alpine/helm:3.2.1 lint .
-  docker run --rm -v ${PWD}:/chart -w /chart alpine/helm:3.2.1 package .
+  docker run --rm -v ${PWD}:/chart -w /chart alpine/helm:3.2.4 lint .
+  docker run --rm -v ${PWD}:/chart -w /chart alpine/helm:3.2.4 package .
   mv *.tgz ../.
   cd ..
   sudo rm -r $i
