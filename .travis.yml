@@ -6,7 +6,7 @@ branches:
     - master
 script:
   - ./package_charts.sh
-  - docker run --rm -v ${PWD}:/chart -w /chart alpine/helm:3.3.0 repo index .
+  - docker run --rm -v ${PWD}:/chart -w /chart alpine/helm:3.3.1 repo index .
   - git add *.tgz index.yaml
   - git commit -m '[skip travis] Auto Chart Deploy'
   - git remote rm origin
