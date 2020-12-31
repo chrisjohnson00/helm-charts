@@ -3,7 +3,7 @@ entries:
   awx-proxy-chart:
   - apiVersion: v2
     appVersion: latest
-    created: "2020-11-28T05:20:11.659420524Z"
+    created: "2020-12-31T19:31:30.473010453Z"
     description: A Helm chart for Kubernetes
     digest: 4c353dba45e630309879ffadf850d85293c976672699c1fd87e044f4f620a76c
     name: awx-proxy-chart
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: latest
-    created: "2020-11-28T05:20:11.65892872Z"
+    created: "2020-12-31T19:31:30.472481917Z"
     description: A Helm chart for Kubernetes
     digest: 8ac81442b6b40e476185ec212a032b635277f3fc51a8e37629e8b8ff8b05e3ae
     name: awx-proxy-chart
@@ -24,9 +24,9 @@ entries:
   cadvisor:
   - apiVersion: v1
     appVersion: 0.35.0
-    created: "2020-11-28T05:20:11.660593007Z"
+    created: "2020-12-31T19:31:30.47410978Z"
     description: A chart for a Cadvisor deployment
-    digest: 3dcfcb8f79d837204eaab7d0fa2da6bf6d7d2e2d694b1ef0e45685e10706c742
+    digest: ba42f3ebf3c173494a8421db316a96c1480668d09793b668396163a7092e6d27
     home: https://github.com/google/cadvisor
     keywords:
     - prometheus
@@ -44,16 +44,16 @@ entries:
     version: 1.0.0
   flask-chart:
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.669678309Z"
+    created: "2020-12-31T19:31:30.480385693Z"
     description: A Helm chart for simple Flask apps running on Kubernetes
-    digest: b5516669442bf87e0c17fcf1724383149051b4f6a873abc05a468c2c290d3da1
+    digest: 5447a2585f6cd8ccf9a1e0b8a754acdc148b623b802cb12258808fa1210b1847
     name: flask-chart
     type: application
     urls:
     - flask-chart-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.669138387Z"
+    created: "2020-12-31T19:31:30.479842283Z"
     description: A Helm chart for simple Flask apps running on Kubernetes
     digest: bfeabd86de847d165b32abc7a2714deccce3d0074394e592e508840e00b6d277
     name: flask-chart
@@ -62,7 +62,7 @@ entries:
     - flask-chart-0.2.9.tgz
     version: 0.2.9
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.668609406Z"
+    created: "2020-12-31T19:31:30.479274414Z"
     description: A Helm chart for simple Flask apps running onKubernetes
     digest: d86838c1de77f386ddbb4e7a9a326e2aedf30c520ed65e66eaddb1cfb2036cee
     name: flask-chart
@@ -71,7 +71,7 @@ entries:
     - flask-chart-0.2.8.tgz
     version: 0.2.8
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.668041481Z"
+    created: "2020-12-31T19:31:30.478738636Z"
     description: A Helm chart for simple Flask apps running onKubernetes
     digest: f417a5e5f6a7f88b51f74e89e732921c14b0a02052ce0b381e16950b302c414f
     name: flask-chart
@@ -80,7 +80,7 @@ entries:
     - flask-chart-0.2.7.tgz
     version: 0.2.7
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.667515315Z"
+    created: "2020-12-31T19:31:30.478208743Z"
     description: A Helm chart for simple Flask apps running onKubernetes
     digest: a043431a2d534f1811e6ee78ea00561287ce92afeea8ce8deebada3bffbf94ab
     name: flask-chart
@@ -89,7 +89,7 @@ entries:
     - flask-chart-0.2.6.tgz
     version: 0.2.6
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.66698231Z"
+    created: "2020-12-31T19:31:30.477651465Z"
     description: A Helm chart for simple Flask apps running onKubernetes
     digest: 3803146240a12df78d62929634d284697f34e5e5ad47b5981add37b7b13823c9
     name: flask-chart
@@ -98,7 +98,7 @@ entries:
     - flask-chart-0.2.5.tgz
     version: 0.2.5
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.666470802Z"
+    created: "2020-12-31T19:31:30.477094544Z"
     description: A Helm chart for simple Flask apps running onKubernetes
     digest: 9c0b507e41cdfa46c0f0c1c04f8766b713a652630dba73f8c179e1acc274d3d0
     name: flask-chart
@@ -107,7 +107,7 @@ entries:
     - flask-chart-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.665913091Z"
+    created: "2020-12-31T19:31:30.476590526Z"
     description: A Helm chart for simple Flask apps running onKubernetes
     digest: e4587f73dbc2c6f955ed694827a3db1a3a887defa9ddb5bf5aea4a296ca0c413
     name: flask-chart
@@ -116,7 +116,7 @@ entries:
     - flask-chart-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.665329564Z"
+    created: "2020-12-31T19:31:30.476111908Z"
     description: A Helm chart for simple Flask apps running onKubernetes
     digest: 3ec3da647a7b5a7c9d48d3fc0f6b7492fa3c31fcc057d6873d15a2211001b184
     name: flask-chart
@@ -125,7 +125,7 @@ entries:
     - flask-chart-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.664734173Z"
+    created: "2020-12-31T19:31:30.475628709Z"
     description: A Helm chart for simple Flask apps running onKubernetes
     digest: 4e28b1c458a895bec835b496776bf29b3ec3eb8447642e1d5b47ff8cde1c0b7f
     name: flask-chart
@@ -134,7 +134,7 @@ entries:
     - flask-chart-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.663252575Z"
+    created: "2020-12-31T19:31:30.475119876Z"
     description: A Helm chart for simple Flask apps running onKubernetes
     digest: b62ddccb15b5c8635f9a26b256bc262da3b0dd660611c713eb7d316c82fd551a
     name: flask-chart
@@ -143,7 +143,7 @@ entries:
     - flask-chart-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.662090282Z"
+    created: "2020-12-31T19:31:30.474629241Z"
     description: A Helm chart for simple Flask apps running onKubernetes
     digest: af5974a4560c148f52ab92e091db1c7d3a2a77a21140f7c75193ae20716fa471
     name: flask-chart
@@ -154,9 +154,9 @@ entries:
   handbrake-watcher:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.677961933Z"
+    created: "2020-12-31T19:31:30.488338234Z"
     description: A Helm chart for Kubernetes
-    digest: 0dedc84c1285c389d4d9bab6edc41c4da20ec2e0ff2c94f72df44827bad5af24
+    digest: 42d7c5fc190533405db0e1078b597c74c06f2cbbd2dc7a5cc0c1413fca790bf6
     name: handbrake-watcher
     type: application
     urls:
@@ -164,7 +164,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.677565925Z"
+    created: "2020-12-31T19:31:30.487948738Z"
     description: A Helm chart for Kubernetes
     digest: 31e4067f48d88b821586904096cdc3ebf2abcdd9365b2bc5156340d2eb7eb610
     name: handbrake-watcher
@@ -174,7 +174,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.677151418Z"
+    created: "2020-12-31T19:31:30.487574408Z"
     description: A Helm chart for Kubernetes
     digest: 3979a1df884d9166cc8ed71e76002da70894850315eed1c6df891174dba05de6
     name: handbrake-watcher
@@ -184,7 +184,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.676588593Z"
+    created: "2020-12-31T19:31:30.487214895Z"
     description: A Helm chart for Kubernetes
     digest: d071e23a708d87057d3b24dbeb01385d2889ae69686044c0e8fc5ee85caf6205
     name: handbrake-watcher
@@ -194,7 +194,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.674691063Z"
+    created: "2020-12-31T19:31:30.486839843Z"
     description: A Helm chart for Kubernetes
     digest: 2d49b1190db95d6433b106a277853c62ca21c852ac6ee12ca0dae68bbe4b02a5
     name: handbrake-watcher
@@ -204,7 +204,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.673689781Z"
+    created: "2020-12-31T19:31:30.486487127Z"
     description: A Helm chart for Kubernetes
     digest: 44a9007df957a9d965a6442171289b5643e29efeeb658b444852b88b1fab0d8c
     name: handbrake-watcher
@@ -214,7 +214,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.672937751Z"
+    created: "2020-12-31T19:31:30.486074746Z"
     description: A Helm chart for Kubernetes
     digest: 989b41c6bda7dfe592d8893c1d7a3606924f24003f1c7b03e873a136b4ac5a2e
     name: handbrake-watcher
@@ -224,7 +224,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.672508766Z"
+    created: "2020-12-31T19:31:30.485711325Z"
     description: A Helm chart for Kubernetes
     digest: d2bb2b7ff2b4b45cdf6a17848cbd4dfd33a77cecaefa2b664253fa2928426475
     name: handbrake-watcher
@@ -234,7 +234,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.672050852Z"
+    created: "2020-12-31T19:31:30.485327311Z"
     description: A Helm chart for Kubernetes
     digest: 6400e3a01339a441783fe9d5ea9b1431a7976e453f9da15d8583e5d08ac5e151
     name: handbrake-watcher
@@ -244,7 +244,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.671623629Z"
+    created: "2020-12-31T19:31:30.484909773Z"
     description: A Helm chart for Kubernetes
     digest: 55bf780dacd16f30afbee070bde81b4bd35edc31ee4900ad18abeca67dc398f1
     name: handbrake-watcher
@@ -254,7 +254,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.671209721Z"
+    created: "2020-12-31T19:31:30.483832105Z"
     description: A Helm chart for Kubernetes
     digest: edfe488e92fc6f001ac1061a8f948abfef90247631364c47a738f7a64639a6a5
     name: handbrake-watcher
@@ -264,7 +264,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.670823088Z"
+    created: "2020-12-31T19:31:30.482971312Z"
     description: A Helm chart for Kubernetes
     digest: 33699f8c42d28209f3d0294c46a16cc36b2b39d64b91f76947d99381a9694983
     name: handbrake-watcher
@@ -274,7 +274,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.670436735Z"
+    created: "2020-12-31T19:31:30.482105671Z"
     description: A Helm chart for Kubernetes
     digest: 54706a28d880dd7b363ab2d69e75074ee300c5cca9d74df8edb0a43c294f1e6c
     name: handbrake-watcher
@@ -284,7 +284,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-28T05:20:11.670066154Z"
+    created: "2020-12-31T19:31:30.481148359Z"
     description: A Helm chart for Kubernetes
     digest: f6d06e7ac25820dca22810f8e86b7c8e02eaa147af4a64ade4bc6d2c599a6cb3
     name: handbrake-watcher
@@ -295,7 +295,7 @@ entries:
   metrics-server:
   - apiVersion: v1
     appVersion: 0.3.6
-    created: "2020-11-28T05:20:11.679378849Z"
+    created: "2020-12-31T19:31:30.489675912Z"
     description: Metrics Server is a cluster-wide aggregator of resource usage data.
     digest: 1473bbde0a3051caa5c65c241331b9a43a236ddf8a6a34c2b9729807845442f4
     home: https://github.com/kubernetes-incubator/metrics-server
@@ -314,7 +314,7 @@ entries:
     version: 2.11.2
   - apiVersion: v1
     appVersion: 0.3.6
-    created: "2020-11-28T05:20:11.678662082Z"
+    created: "2020-12-31T19:31:30.488972845Z"
     description: Metrics Server is a cluster-wide aggregator of resource usage data.
     digest: d9b81b98e47d06e35ea4ca916864ed5db7384cb225982339772dbc5efd7642e4
     home: https://github.com/kubernetes-incubator/metrics-server
@@ -334,7 +334,7 @@ entries:
   nfs-client-provisioner:
   - apiVersion: v1
     appVersion: 3.1.0
-    created: "2020-11-28T05:20:11.679916342Z"
+    created: "2020-12-31T19:31:30.490298292Z"
     description: nfs-client is an automatic provisioner that used your *already configured*
       NFS server, automatically creating Persistent Volumes.
     digest: bbb790627397f5913170aaa5e71a7eedb35b3b74733db4238ffc481d5dd83073
@@ -353,9 +353,9 @@ entries:
     version: 1.2.9
   qbittorrent:
   - apiVersion: v1
-    created: "2020-11-28T05:20:11.681365613Z"
+    created: "2020-12-31T19:31:30.491649239Z"
     description: A Helm chart for qBittorentt with OpenVPN
-    digest: 4bb6decfc0b28e665d390940ad36a575cb332dc33b81435e1c4dbf02ed23ba09
+    digest: e67d95adb63056954ce4bd500c677cf20582d3ada233957b5f2dc8f5b8dd0823
     maintainers:
     - email: chung.k.tran@gmail.com
       name: Chung Tran
@@ -367,7 +367,7 @@ entries:
     - qbittorrent-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
-    created: "2020-11-28T05:20:11.680654989Z"
+    created: "2020-12-31T19:31:30.490980813Z"
     description: A Helm chart for qBittorentt with OpenVPN
     digest: 86377ebcebf80c26a1738b7f4a61e32484d20ca5b9eede30486c8daecff142a0
     maintainers:
@@ -382,16 +382,16 @@ entries:
     version: 1.0.0
   x-arr-chart:
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.682985638Z"
+    created: "2020-12-31T19:31:30.493206866Z"
     description: A Helm chart for running Sonarr, Radarr, Lidar on Kubernetes
-    digest: a00dc8a6669f64972e2bf0e83e7916b1f0c0823151f1a7c197821d7597553b28
+    digest: 30d17135825f27aca6a41edd3c8aa66b5fcf06f973c582977e641f78a8677152
     name: x-arr-chart
     type: application
     urls:
     - x-arr-chart-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.682417812Z"
+    created: "2020-12-31T19:31:30.492658465Z"
     description: A Helm chart for running Sonarr, Radarr, Lidar on Kubernetes
     digest: d74be728ae6bcb63cca790dd42e3f57792571b0af1bb55e2b6361ce726ead0f6
     name: x-arr-chart
@@ -400,7 +400,7 @@ entries:
     - x-arr-chart-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2020-11-28T05:20:11.681898185Z"
+    created: "2020-12-31T19:31:30.492157275Z"
     description: A Helm chart for running Sonarr, Radarr, Lidar on Kubernetes
     digest: 08ebec4c05f93b7a8af120baf6dbd3141af4ed4909001c62d7de6e51fe2846cb
     name: x-arr-chart
@@ -408,4 +408,4 @@ entries:
     urls:
     - x-arr-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2020-11-28T05:20:11.658325486Z"
+generated: "2020-12-31T19:31:30.471034241Z"
